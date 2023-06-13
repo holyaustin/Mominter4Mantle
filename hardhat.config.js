@@ -1,5 +1,6 @@
 require("@nomiclabs/hardhat-waffle");
 require('dotenv').config();
+//console.log(process.env.NEXT_PUBLIC_PRIVATE_KEY);
 
 module.exports = {
   defaultNetwork: "hardhat",
@@ -10,7 +11,7 @@ module.exports = {
    
     testnet: {
       url: `https://rpc.testnet.mantle.xyz`, 
-      accounts: [process.env.PRIVATE_KEY],
+      accounts: [process.env.NEXT_PUBLIC_PRIVATE_KEY],
     },
 
   },

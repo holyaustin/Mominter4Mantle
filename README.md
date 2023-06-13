@@ -26,12 +26,12 @@ The smart contract uses ERC-721 specification to hold metadata URI, ethers.js wa
 
 ## Live DApp hosted on
 
-Live Dapp on Vercel: - <https://mominter.vercel.app/>
+Live Dapp on Vercel: - <https://mominter4-mantle.vercel.app//>
 
 Deployed to Polygon Chain:
-  Mantle Testnet deployed Address = "0x4e75D8F85ED40aA3f73fB751b1Dfa07DEFe09C94"
+  Mantle Testnet deployed Address = "0x085446624cA30579532B12B7EAeD211B1E6Ac1de"
 
-  <https://hyperspace.filfox.info/en/address/0x4e75D8F85ED40aA3f73fB751b1Dfa07DEFe09C94>
+  <https://explorer.testnet.mantle.xyz/address/0x085446624cA30579532B12B7EAeD211B1E6Ac1de>
 
  Youtube video link: <https://youtu.be/kZvxCGMPci8>
 
@@ -40,7 +40,7 @@ Deployed to Polygon Chain:
 First, run the development server:
 
 ```text
-clone the repo https://github.com/holyaustin/Mominter.git
+clone the repo https://github.com/holyaustin/Mominter4Mantle
 # next is to 
 npm install
 # then
@@ -49,7 +49,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3016](http://localhost:3016) with your browser to see the result.
+Open [http://localhost:3014](http://localhost:3014) with your browser to see the result.
 
 ## How to run this project locally
 
